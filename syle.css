@@ -8,7 +8,7 @@ cursor: pointer;
 
 #gameContainer{
 
-    font-family: "Permanent Marker",cursive;
+   font-family: "Permanent Marker", cursive, sans-serif;
     text-align: center;
 }
 
